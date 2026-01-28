@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.db
+
+# Build results
+[Bb]in/
+[Oo]bj/
