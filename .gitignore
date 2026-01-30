@@ -6,6 +6,8 @@ obj/
 *.suo
 *.cache
 *.db
+**/bin/
+**/obj/
 
 # Build results
 [Bb]in/
