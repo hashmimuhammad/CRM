@@ -8,12 +8,7 @@ namespace Dashboard.Common.Dtos
 {
     public class AuthResponseDto
     {
-
-
-        
             public string Token { get; set; }
-            
-
 
     }
 }
