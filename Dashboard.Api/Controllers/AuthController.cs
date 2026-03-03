@@ -28,7 +28,4 @@ public class AuthController : ControllerBase
     {
         return Ok(await _authService.LoginAsync(dto));
     }
-
-
- 
 }
